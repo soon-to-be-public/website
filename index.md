@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Title: A soon-to-be-public blog
 ---
 
